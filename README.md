@@ -5,6 +5,8 @@
 #### 1.1、Telegram软件来源`[已安装不确定来源的建议重新安装]`
 
 >### 《Telegram》应用官网下载地址: https://telegram.org/apps
+>
+>### 安装完成后如何正确设置中文语言包 官方链接：https://t.me/setlanguage/classic-zh-cn
 
 `下载了未知来源的Telegram软件,可能会出现聊天被监听,转账地址被篡改的情况`
 
